@@ -17,7 +17,7 @@
 - [Pulling the Strings](challenges/Pulling%20the%20Strings.md)
 - [Warmup](challenges/Warmup.md)
 - [Keygen](challenges/Keygen.md)
-- [How to defeat a Dragon](challenges/How%20defeat%20Dragon.md)
+- [How to defeat a Dragon](challenges/How%20to%20defeat%20a%20Dragon.md)
 
 ## Crypto
 - [Tweeeet](challenges/Tweeeet.md)
