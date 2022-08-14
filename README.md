@@ -2,14 +2,14 @@
 https://shellctf2022.games/
 12.08.22 14:30 - 14.08.22 14:30
 
-![[Pasted image 20220812142336.png]]
+![](screenshots/Pasted image 20220812142336.png)
 
 
 ## Forensics
-- [Alien Communication](Alien%2Communication.md)
-- [Secret Document](Secret%2Document.md)
+- [Alien Communication](Alien%20Communication.md)
+- [Secret Document](Secret%20Document.md)
 - [Heaven](Heaven.md)
-- [Hidden File](Hidden%2File.md)
+- [Hidden File](Hidden%20File.md)
 
 ## Reversing
 - [[Pulling the Strings]] check
