@@ -9,7 +9,7 @@ Category: Reversing
 
 I opened up the given executable in **Ghidra** and inspected the main function. The first lines looked like they could be our flag or at least could lead us to our flag. (On the screenshot next to the variables I wrote down the characters they were supposed to be to actually be the flag).
 
-<img src="../screenshots/Pasted image 20220812184208.png" width=200>
+<img src="../screenshots/Pasted image 20220812184208.png" width=250>
 
 I thought they mabe just a bit shifted by having added some value. But a quick python try said nope.
 
@@ -17,7 +17,7 @@ I thought they mabe just a bit shifted by having added some value. But a quick p
 
 So I head a deeper look and renamed some of the variables to something more intuitive.
 
-<img src="../screenshots/Pasted image 20220812184858.png" width=200>
+<img src="../screenshots/Pasted image 20220812184858.png" width=250>
 
 `if (my_input_length == 0x1b)` reveals that the flag length is 27. And a look further down shows that each character of our possible flag is bitshifted by 2 before compared to our input:
 
