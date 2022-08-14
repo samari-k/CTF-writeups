@@ -9,7 +9,7 @@ We got an executable asking for a code.
 
 <img src="../screenshots/Pasted image 20220812215620.png" width=500>
 
-<img src="../screenshot/Pasted image 20220812215828.png" width=500>
+<img src="../screenshots/Pasted image 20220812215828.png" width=500>
 
 `strings` came up with something interesting but I was not really sure, so I opened the file again in **Ghidra**.
 
