@@ -1,6 +1,6 @@
 # SHELL CTF 2022
-https://shellctf2022.games/
-12.08.22 14:30 - 14.08.22 14:30
+> https://shellctf2022.games/<br>
+> 12.08.- 14.08.22
 
 ![screenshot](screenshots/Pasted%20image%2020220812142336.png)
 
