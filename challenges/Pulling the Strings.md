@@ -14,7 +14,7 @@ We got an executable which wanted to be fed with something. The title of this ch
 
 At **(1)** it asks us for food. At **(2)** (actually a bit below) it reads our input and at **(3)** it moves the flag into a register to compare it to our input. So flag would have to be there readable in the memory. I set a breakpoint after the `call sym.imp.fgetws` and another before the `call sym.imp.wcscmp` and continued to the first breakpoint.
 
-<img src="../screenshots/Pasted image 20220812181517.png" width=150>
+<img src="../screenshots/Pasted image 20220812181517.png" width=250>
 
 I fed it with a bunch of A's and had a look at the register memory.
 
