@@ -2,7 +2,7 @@
 https://shellctf2022.games/
 12.08.22 14:30 - 14.08.22 14:30
 
-![screenshot](screenshots/Pasted image 20220812142336.png)
+![screenshot](screenshots/Pasted%20image%2020220812142336.png)
 
 
 ## Forensics
@@ -15,7 +15,7 @@ https://shellctf2022.games/
 - [Pulling the Strings](Pulling%20the%20Strings.md)
 - [Warmup](Warmup.md)
 - [Keygen](Keygen.md)
-- [How to defeat a Dragon](How%20defeat%20Dragon.md
+- [How to defeat a Dragon](How%20defeat%20Dragon.md)
 
 ## Crypto
 - [Tweeeet](Tweeeet.md)
