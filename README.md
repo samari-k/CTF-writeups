@@ -5,20 +5,15 @@ https://shellctf2022.games/
 ![[Pasted image 20220812142336.png]]
 
 
-## Web
-- [[Colour Cookie]]
-
 ## Forensics
-- [[Alien Communication]] check
-- [[Secret Document]] check
-- [[Heaven]] check
-- [[Go Deep]]
-- [[Hidden File]] check
+- [Alien Communication](Alien%2Communication.md)
+- [Secret Document](Secret%2Document.md)
+- [Heaven](Heaven.md)
+- [Hidden File](Hidden%2File.md)
 
 ## Reversing
 - [[Pulling the Strings]] check
 - [[Warmup]] check
-- [[Tea]]
 - [[Keygen]] check
 - [[How to defeat a Dragon]] check
 
@@ -29,6 +24,5 @@ https://shellctf2022.games/
 
 ## Misc
 - [[World's Greatest Detective]] check
-- [[yet another chall]]
 
 
