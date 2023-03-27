@@ -14,19 +14,19 @@ Die [Potsdam Cyber Games](https://potsdam-cyber-games.de/) fanden vom 3.3.2023 b
 ### Forensics
 |Kategorie | Challenge | Flags | Punkte |
 | --- | --- | --- | -- |
-| **Forensics** | [Exam](for-exam) | ✅ | 150
-| |  [Exams Are Gone](for-examsaregone) | ✅✅ | 300
-| | [Park Sanssecurity](for-sanssecurity) | ✅ | 150
-| | [Hello](for-hello) | ✅ | 398
+| **Forensics** | [Exam](challenges/for-exam) | ✅ | 150
+| |  [Exams Are Gone](challenges/for-examsaregone) | ✅✅ | 300
+| | [Park Sanssecurity](challenges/for-sanssecurity) | ✅ | 150
+| | [Hello](challenges/for-hello) | ✅ | 398
 ||||
-| **Web** |[Painting Explorer](web-paintingexplorer)| ✅ | 150
-| |[Free-Food](web-freefood)| ✅ | 150
-| |[Security Summit](web-securitysummit)| ✅✅ | 923
-| |[First Pass](web-firstpass)| ✅✅✅| 839
+| **Web** |[Painting Explorer](challenges/web-paintingexplorer)| ✅ | 150
+| |[Free-Food](challenges/web-freefood)| ✅ | 150
+| |[Security Summit](challenges/web-securitysummit)| ✅✅ | 923
+| |[First Pass](challenges/web-firstpass)| ✅✅✅| 839
 ||||
-| **Network** |[Kiosk PC](net-kioskpc) |✅| 150
-| |[Data Dumpster](net-datadumpster)| ✅| 150
-| |[Personal Website](net-personalwebsite) |✅✅| 300
+| **Network** |[Kiosk PC](challenges/net-kioskpc) |✅| 150
+| |[Data Dumpster](challenges/net-datadumpster)| ✅| 150
+| |[Personal Website](challenges/net-personalwebsite) |✅✅| 300
 | |HackHigh Identity Provider| ✅❌❌❌❌| 150
 ||||
 | **Cryptography** |Welcome Letter |✅| 150
@@ -36,16 +36,16 @@ Die [Potsdam Cyber Games](https://potsdam-cyber-games.de/) fanden vom 3.3.2023 b
 | |Encrypted Event Token| ❌| -
 | |Secure Exam Storage |❌| -
 ||||
-| **Reverse** |[X-Tales: Starter](rev-x-starter) |✅| 150
-| |[X-Tales: Modulus](rev-x-modulus) |✅| 150
-| |[Coffee Machine](rev-coffeemachine) |✅✅| 300
+| **Reverse** |[X-Tales: Starter](challenges/rev-x-starter) |✅| 150
+| |[X-Tales: Modulus](challenges/rev-x-modulus) |✅| 150
+| |[Coffee Machine](challenges/rev-coffeemachine) |✅✅| 300
 ||||
-| **Binary** | [X-Tales: Forgotten Function](bin-x-forgottenfunction) |✅| 150
-| |[Printer Admin](bin-printeradmin) |✅| 150
-| |[Simple Mail Sending](bin-simplemail) |✅❌| 150
+| **Binary** | [X-Tales: Forgotten Function](challenges/bin-x-forgottenfunction) |✅| 150
+| |[Printer Admin](challenges/bin-printeradmin) |✅| 150
+| |[Simple Mail Sending](challenges/bin-simplemail) |✅❌| 150
 | |X-Tales: Race |✅✅| 548
-| |[Password Safe](bin-passwordsafe) |✅✅✅✅❌❌| 1896
-| |[X-Tales: Discussion](bin-x-discussion.md) |✅| 150
+| |[Password Safe](challenges/bin-passwordsafe) |✅✅✅✅❌❌| 1896
+| |[X-Tales: Discussion](challenges/bin-x-discussion.md) |✅| 150
 ||||
-| **Hardware** |[The Server Room's Door ](hard-door.md)|✅| 150
+| **Hardware** |[The Server Room's Door ](challenges/hard-door.md)|✅| 150
 | |Crypto Module |❌|
