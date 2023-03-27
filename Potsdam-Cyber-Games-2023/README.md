@@ -1,6 +1,6 @@
 # Potsdam Cyber Games
 
-![](screenshots/Pasted%20image%2020230324125319.png)
+![](challenges/screenshots/Pasted%20image%2020230324125319.png)
 
 
 ## Überblick
@@ -14,19 +14,19 @@ Die [Potsdam Cyber Games](https://potsdam-cyber-games.de/) fanden vom 3.3.2023 b
 ### Forensics
 |Kategorie | Challenge | Flags | Punkte |
 | --- | --- | --- | -- |
-| **Forensics** | [Exam](challenges/for-exam) | ✅ | 150
-| |  [Exams Are Gone](challenges/for-examsaregone) | ✅✅ | 300
-| | [Park Sanssecurity](challenges/for-sanssecurity) | ✅ | 150
-| | [Hello](challenges/for-hello) | ✅ | 398
+| **Forensics** | [Exam](challenges/for-exam.md) | ✅ | 150
+| |  [Exams Are Gone](challenges/for-examsaregone.md) | ✅✅ | 300
+| | [Park Sanssecurity](challenges/for-sanssecurity.md) | ✅ | 150
+| | [Hello](challenges/for-hello.md) | ✅ | 398
 ||||
-| **Web** |[Painting Explorer](challenges/web-paintingexplorer)| ✅ | 150
-| |[Free-Food](challenges/web-freefood)| ✅ | 150
-| |[Security Summit](challenges/web-securitysummit)| ✅✅ | 923
-| |[First Pass](challenges/web-firstpass)| ✅✅✅| 839
+| **Web** |[Painting Explorer](challenges/web-paintingexplorer.md)| ✅ | 150
+| |[Free-Food](challenges/web-freefood.md)| ✅ | 150
+| |[Security Summit](challenges/web-securitysummit.md)| ✅✅ | 923
+| |[First Pass](challenges/web-firstpass.md)| ✅✅✅| 839
 ||||
-| **Network** |[Kiosk PC](challenges/net-kioskpc) |✅| 150
-| |[Data Dumpster](challenges/net-datadumpster)| ✅| 150
-| |[Personal Website](challenges/net-personalwebsite) |✅✅| 300
+| **Network** |[Kiosk PC](challenges/net-kioskpc.md) |✅| 150
+| |[Data Dumpster](challenges/net-datadumpster.md)| ✅| 150
+| |[Personal Website](challenges/net-personalwebsite.md) |✅✅| 300
 | |HackHigh Identity Provider| ✅❌❌❌❌| 150
 ||||
 | **Cryptography** |Welcome Letter |✅| 150
@@ -36,15 +36,15 @@ Die [Potsdam Cyber Games](https://potsdam-cyber-games.de/) fanden vom 3.3.2023 b
 | |Encrypted Event Token| ❌| -
 | |Secure Exam Storage |❌| -
 ||||
-| **Reverse** |[X-Tales: Starter](challenges/rev-x-starter) |✅| 150
-| |[X-Tales: Modulus](challenges/rev-x-modulus) |✅| 150
-| |[Coffee Machine](challenges/rev-coffeemachine) |✅✅| 300
+| **Reverse** |[X-Tales: Starter](challenges/rev-x-starter.md) |✅| 150
+| |[X-Tales: Modulus](challenges/rev-x-modulus.md) |✅| 150
+| |[Coffee Machine](challenges/rev-coffeemachine.md) |✅✅| 300
 ||||
-| **Binary** | [X-Tales: Forgotten Function](challenges/bin-x-forgottenfunction) |✅| 150
-| |[Printer Admin](challenges/bin-printeradmin) |✅| 150
-| |[Simple Mail Sending](challenges/bin-simplemail) |✅❌| 150
+| **Binary** | [X-Tales: Forgotten Function](challenges/bin-x-forgottenfunction.md) |✅| 150
+| |[Printer Admin](challenges/bin-printeradmin.md) |✅| 150
+| |[Simple Mail Sending](challenges/bin-simplemail.md) |✅❌| 150
 | |X-Tales: Race |✅✅| 548
-| |[Password Safe](challenges/bin-passwordsafe) |✅✅✅✅❌❌| 1896
+| |[Password Safe](challenges/bin-passwordsafe.md) |✅✅✅✅❌❌| 1896
 | |[X-Tales: Discussion](challenges/bin-x-discussion.md) |✅| 150
 ||||
 | **Hardware** |[The Server Room's Door ](challenges/hard-door.md)|✅| 150
